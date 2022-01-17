@@ -1,4 +1,4 @@
-# Refined-OpenSLR-52-Corpus
+# Refined OpenSLR-52 Corpus
 
 This repository contains a refined set of transcriptions of a speech corpus for Sinhala.
 
